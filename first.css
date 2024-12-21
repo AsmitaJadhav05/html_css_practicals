@@ -1,0 +1,44 @@
+
+.container{
+
+border: red;
+border: 2px solid red;
+background-color: #973848;
+display: flex;
+justify-content:space-evenly;
+
+
+
+
+}
+.item1{
+
+    padding-right: 500px;
+    
+}
+.box1{
+background-color: gray;
+height: 50vh;
+width: 400px;
+margin-top: 50px ;
+margin-left: 100px;
+}
+.para{
+padding-top: 100px;
+
+}
+.lorem{
+    
+
+    height: 40vh;
+    width:400px;
+    margin-top: 85px;
+    margin-left: 100px;
+}
+
+.flex{
+display: flex;
+background-color: #45dddd;
+height:100vh ;
+
+}
